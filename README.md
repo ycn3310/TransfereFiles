@@ -2,7 +2,7 @@
 
 A small command-line tool written in C for sending a single file from one Windows machine to another over TCP, using raw Winsock2. It shows a live progress bar with transfer speed and ETA on both ends.
 
-![Client/server flow](docs/flow.png)
+![Client/server flow](https://github.com/ycn3310/TransfereFiles/blob/main/client_server_file_transfer_flow.png)
 
 ## Features
 
